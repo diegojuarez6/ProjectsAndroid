@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prototype6</string>
+    <string name="amplificador">Amplificador</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="clonar">Clonar</string>
+</resources>
